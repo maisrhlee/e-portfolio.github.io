@@ -178,7 +178,7 @@ padding: 60px 5px;
 	bottom: 580px;
 	position: absolute;
 	transition: .4s;
-	margin-top:20px;
+	margin-top: 20px; 
 }
 
 .navibar ul{
@@ -524,7 +524,7 @@ td{
 	text-align: center;
 	border-radius: 15px 15px 0px 0px;
  	box-shadow: 0 10px 25px red;
-	position: center;
+ 	position: center;
 }
 
 .main{
@@ -534,7 +534,6 @@ td{
 	left: 330px;
  	width: 800px;
  	border-radius: 12px;
-	position: center;
  }
 
 form{
